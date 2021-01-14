@@ -3,8 +3,7 @@
 ## Audio und HiFi
 | Norm               | Titel |
 |--------------------|-------|
-| DIN IEC 60268-10   | Elektroakustische Geräte - Teil 10: Spitzenspannungs-Aussteuerungsmessgerät
- |
+| DIN IEC 60268-10   | Elektroakustische Geräte - Teil 10: Spitzenspannungs-Aussteuerungsmessgerät |
 
 ## Begriffe
 | Norm               | Titel |
@@ -30,6 +29,12 @@
 | DIN 43670          | Stromschienen aus Aluminium - Bemessung für Dauerstrom |
 | VDE 0298-100       | Verwendung von Kabeln und isolierten Leitungen für Starkstromanlagen - Wirtschaftliche Optimierung der Leiterquerschnitte von Kabeln |
 | VDE 0298-300       | Verwendung von Kabeln und isolierten Leitungen für Starkstromanlagen - Teil 300: Leitfaden für die Verwendung harmonisierter Niederspannungsstarkstromleitungen |
+
+## Leiterkarten
+| Norm               | Titel |
+|--------------------|-------|
+| IPC-A-600          | Acceptability of Printed Boards |
+| IPC-A-610          | Acceptability of Electronic Assemblies |
 
 ## Schläuche
 | Norm               | Titel |
