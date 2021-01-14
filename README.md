@@ -1,5 +1,11 @@
 # NORMEN
 
+## Audio und HiFi
+| Norm               | Titel |
+|--------------------|-------|
+| DIN IEC 60268-10   | Elektroakustische Geräte - Teil 10: Spitzenspannungs-Aussteuerungsmessgerät
+ |
+
 ## Begriffe
 | Norm               | Titel |
 |--------------------|-------|
