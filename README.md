@@ -49,4 +49,4 @@
 ## Straßenverkehr
 | Norm               | Titel |
 |--------------------|-------|
-| RSA                | [http://www.rsa-online.com/] |
+| RSA                | http://www.rsa-online.com/ |
