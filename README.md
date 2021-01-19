@@ -5,6 +5,12 @@
 |--------------------|-------|
 | DIN IEC 60268-10   | Elektroakustische Geräte - Teil 10: Spitzenspannungs-Aussteuerungsmessgerät |
 
+
+## Automotive-Elektronik
+| Norm               | Titel |
+|--------------------|-------|
+| DIN 72552-2        | Klemmenbezeichnungen in Kraftfahrzeugen - Teil 2: Bedeutungen |
+
 ## Begriffe
 | Norm               | Titel |
 |--------------------|-------|
